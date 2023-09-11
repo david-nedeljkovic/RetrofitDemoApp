@@ -1,0 +1,21 @@
+
+w
+Gapp/src/main/java/com/android/retrofitexampledemoapp/utils/Constants.kt,4\a\4aab2705d8a349a03fbd916714636cba07b9c9f6
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+|
+Lapp/src/main/java/com/android/retrofitexampledemoapp/api/RetrofitInstance.kt,3\2\3265065411408c74f994ce03b22cc355420c1d7d
+r
+Bapp/src/main/java/com/android/retrofitexampledemoapp/model/Post.kt,3\7\373cdcef5ffd065c0d03a6f2c13c7cdcda1908bc
+}
+Mapp/src/main/java/com/android/retrofitexampledemoapp/repository/Repository.kt,a\b\ab25ece389a52546705c4ac04f5cb1771c5e9ae0
+
+Oapp/src/main/java/com/android/retrofitexampledemoapp/viewmodel/MainViewModel.kt,9\4\9492246ecc3bb76abd72d479695ed96ae6f9ebb0
+u
+Eapp/src/main/java/com/android/retrofitexampledemoapp/api/SimpleApi.kt,1\4\149e576cf429a9db4d37c8ba03744e9b2796c507
+ƒ
+Sapp/src/main/java/com/android/retrofitexampledemoapp/adapter/RecyclerViewAdapter.kt,d\2\d2bb5723967daaa7ae35f20fd565d9665f043327
+t
+Dapp/src/main/java/com/android/retrofitexampledemoapp/MainActivity.kt,2\0\20231387a8820b61534db1c5c663b475a6a92f60

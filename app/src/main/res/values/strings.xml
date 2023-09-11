@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitExampleDemoApp</string>
+    <string name="get">GET</string>
+</resources>
